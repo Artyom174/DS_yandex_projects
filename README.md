@@ -4,5 +4,5 @@
 Номер проекта | Название проекта | Описание проекта | Используемые библиотеки
 ------------- |---------------- | ---------------- | -----------------------
 первый проект | [GitHub](http://github.com) | ывфыв | sldksldks
-фывфывыфв | [Исследование объявлений о продажи квартир](https://github.com/Artyom174/yandex_projects/blob/main/02_research%20of%20apartment%20advertisements/research%20of%20apartment%20advertisements.ipynb)
-		
+второй проект | [Исследование объявлений о продажи квартир](https://github.com/Artyom174/yandex_projects/blob/main/02_research%20of%20apartment%20advertisements/research%20of%20apartment%20advertisements.ipynb) | тут я описываю проект | тут пишу про библиотеки
+третий проект | название файла | описание | библиотеки		
