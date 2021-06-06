@@ -3,6 +3,6 @@
 
 Номер проекта | Название проекта | Описание проекта | Используемые библиотеки
 ------------- |---------------- | ---------------- | -----------------------
-первый проект | [GitHub](http://github.com) | ывфыв | sldksldks
+первый проект | [Исследование заёмщиков банка](https://github.com/Artyom174/yandex_projects/blob/main/01_researching_customers_of_bank/bank_customer_research.ipynb) | ывфыв | sldksldks
 второй проект | [Исследование объявлений о продажи квартир](https://github.com/Artyom174/yandex_projects/blob/main/02_research%20of%20apartment%20advertisements/research%20of%20apartment%20advertisements.ipynb) | тут я описываю проект | тут пишу про библиотеки
 третий проект | название файла | описание | библиотеки		
